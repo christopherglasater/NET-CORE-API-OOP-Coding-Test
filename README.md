@@ -13,4 +13,4 @@ Amazon Book : Design-Patterns https://www.amazon.com/Design-Patterns-Wordware-Ap
 
 https://www.thriftbooks.com/a/christopher-g-lasater/1699808/
 
-https://www.codeproject.com/Members/Christopher-G-Lasater/
+https://www.codeproject.com/script/Articles/MemberArticles.aspx?amid=314543
