@@ -1,7 +1,7 @@
 Please answer these questions:
 1.	You have a if..then..else statement in any language that returns a class instance from each result. In each Boolean statement there is a different series of code that creates and modifies the class. What would you do if you wanted to make this more extensible, i.e. you had to continually add more ‘if’ statements and the length and complexity was getting unmanageable. Is there a pattern or a way to change the code from a Boolean statement into something more encapsulated and compartmentalized?
 
-2.	What would be the preferred way in the example in the last question to implement your code?
+2.	What would be the preferred way using GoF Design Patterns in the example in the last question to implement your code?
 
 .NET OOP Coding Test
 1.	Open Visual Studio and create a ASP.NET CORE API MVC project. Use version 6.0 or 5.0 CORE. Call the project OOPCoreApi.
