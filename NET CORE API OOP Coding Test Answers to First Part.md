@@ -2,10 +2,15 @@ If..then..else code could be turned into a factory pattern or a class that creat
 
 You could write something like this:
 ```
-  IStrategy strategy = Factory.GetStrategy(int strategyType);
+  IStrategy strategy = Factory.GetStrategy(int strategyType);//the input here could be something that was a result of the previous boolean logic
 
   SomeClass clazz = strategy.Create(string input1, string input2);
-````
+```
+
+  if...then...else could be replaced by changing the boolean logic to a type, like something = true and someValue ="test" 
+  
+  could be changed farther up into objects like a type or enum
+
 Code for Strategy class:
 
 ```
