@@ -1,6 +1,12 @@
 Please answer these questions:
 1.	You have a if..then..else statement in any language that returns a class instance from each result. In each Boolean statement there is a different series of code that creates and modifies the class. What would you do if you wanted to make this more extensible, i.e. you had to continually add more ‘if’ statements and the length and complexity was getting unmanageable. Is there a pattern or a way to change the code from a Boolean statement into something more encapsulated and compartmentalized?
 
+    if(some condition){
+      SomeClass = new SomeClass("text", "text");
+    } else {
+      SomeClass = new SomeClass("text1", "text1");
+    } //you need to add more cases here
+
 2.	What would be the preferred way using (GoF Design Patterns or OOP methodolgy) in the example in the last question to implement your code?
 
 .NET OOP Coding Test
