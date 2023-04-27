@@ -1,5 +1,8 @@
 # NET-CORE-API-OOP-Coding-Test
-Test for Redcruiters and IT Teams, a quick simple .NET CORE test that will identify if someone has good communication and coding skills
+Test for Redcruiters and IT Teams, a quick simple .NET CORE test that will identify if someone has good communication and coding skills.
+
+Send the NET-CORE-API-OOP-Coding-Test.md as a text file and compare the interviewers answers with the code provided. Also there is a basic OOP Design Patterns oriented question that will test the persons understanding of writing code using OOP and Patterns. This is a simple test I designed that shows if the developer has real knowlkedge and experience with OOP languages like C#.
+
 
 Test created by Christopher G. Lasater
 
